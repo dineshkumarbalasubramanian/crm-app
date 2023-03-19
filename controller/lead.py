@@ -4,3 +4,11 @@
 def create_lead():
     print 'Load creation done'
 
+
+#Update Lead
+def update_lead():
+    print 'Lead update done'
+
+#Get Lead
+def get_lead():
+    print 'Get lead done'
