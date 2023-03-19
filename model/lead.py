@@ -12,3 +12,8 @@ def update_lead_query():
 def get_lead_query():
     print 'Lead select from Database'
 
+#Delete lead Query
+def delete_lead_query():
+    print 'Lead delete from Database'
+
+

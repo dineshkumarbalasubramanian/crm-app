@@ -12,3 +12,8 @@ def update_lead():
 #Get Lead
 def get_lead():
     print 'Get lead done'
+
+#Delete Lead
+def delete_lead():
+    print 'Delete lead done'
+
