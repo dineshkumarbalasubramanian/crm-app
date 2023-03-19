@@ -8,3 +8,13 @@ def create_contact():
 #Update contact
 def update_contact():
     print 'Contact update done'
+
+
+#Get contact
+def get_contact():
+    print 'Get contact done'
+
+#remove contact
+def remove_contact():
+    print 'Delete contact done'
+    
